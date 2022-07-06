@@ -5,7 +5,7 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer ğ
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/230034/screenshots/1471648/void_compass-800.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/230034/screenshots/1471648/void_compass-800.gif" width="160px"/>
   
 ### ğŸ§ More About Me:
 
