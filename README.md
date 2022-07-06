@@ -27,14 +27,6 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer ğ
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
-
-### ğŸ“Š Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/wolfy-six/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/wolfy-six/github-stats-transparent/output/generated/languages.svg)
-
 </a>
 
 <br>
