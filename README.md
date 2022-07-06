@@ -7,16 +7,12 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer �
 
 <img align="right" alt="GIF" src="https://i.gifer.com/ZYZy.gif" width="260px"/>
   
- <br>
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-### More About Me:
+
+## More About Me:
 
 - 🔭 &nbsp; I’m currently Studing in  **SLIIT ACADEMY**
 - 🌱 &nbsp; I’m currently learning **Python**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wolfy-six/)
-
-<br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <br>
 ### 🔨 Languages and Tools:
