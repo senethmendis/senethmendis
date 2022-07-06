@@ -8,7 +8,7 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer �
 <img align="right" alt="GIF" src="https://i.gifer.com/ZYZy.gif" width="260px"/>
   
 
-## More About Me:
+### More About Me:
 
 - 🔭 &nbsp; I’m currently Studing in  **SLIIT ACADEMY**
 - 🌱 &nbsp; I’m currently learning **Python**
