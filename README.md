@@ -10,7 +10,7 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer �
 
 ### 👤 More About Me:
 
-- 🔭 &nbsp; I’m currently Studying in  **SLIIT ACADEMY**
+- 🔭 &nbsp; I’m currently Studying in  **SLIIT ACADEMY, Undergraduate**
 - 🌱 &nbsp; I’m currently learning **Python**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wolfy-six/)
 <br>
