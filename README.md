@@ -7,14 +7,18 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer �
 
 <img align="right" alt="GIF" src="https://i.gifer.com/ZYZy.gif" width="260px"/>
   
-### 🧐 More About Me:
+ <br>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### More About Me:
 
 - 🔭 &nbsp; I’m currently Studing in  **SLIIT ACADEMY**
 - 🌱 &nbsp; I’m currently learning **Python**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wolfy-six/)
 
 <br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<br>
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
