@@ -17,8 +17,6 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer ğ
 
 ### ğŸ›  Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-
 <a href="https://kotlinlang.org" target="_blank">
   
   <a href="https://git-scm.com/" target="_blank"> <img src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" align="left" alt="git" height='42px'/> </a>
