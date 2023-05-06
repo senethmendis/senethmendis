@@ -5,7 +5,7 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer ğ
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://redeapp.com/wp-content/uploads/2016/08/responsive-design.gif" width="260px" height="360px" />
+<img align="right" alt="GIF" src="https://blog.roberthallam.org/wp-content/uploads/2022/09/loading-windows98-transparent2-1.gif" width="260px" height="360px" />
   
 
 ### ğŸ‘¤ More About Me:
