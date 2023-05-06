@@ -5,7 +5,7 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer ğ
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://blog.roberthallam.org/wp-content/uploads/2022/09/loading-windows98-transparent2-1.gif" width="260px" height="360px" />
+<img align="right" alt="GIF" src="https://aster.ng/wp-content/uploads/2019/12/186124-full_ajax-loading-gif-transparent-background-0425.gif" width="260px" height="360px" />
   
 
 ### ğŸ‘¤ More About Me:
