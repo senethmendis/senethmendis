@@ -40,7 +40,10 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer ğ
 
 ### ğŸ›  Tools and IDEs:
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="figma" height='42px'/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" height='42px'/> </a>
+
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="intelliJ" height='42px'/> </a>
+
 
 
 <br>
