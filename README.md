@@ -40,8 +40,6 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer ğ
 
 ### ğŸ›  Tools and IDEs:
 
-https://code.visualstudio.com/assets/images/code-stable.png
-
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="figma" height='42px'/> </a>
 
 
