@@ -15,7 +15,7 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer �
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wolfy-six/)
 <br>
 
-### 🛠 Languages and Tools:
+### 🛠 Languages and Frameworks:
 
 <a href="https://kotlinlang.org" target="_blank">
   
@@ -30,13 +30,20 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer �
 
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="Nextjs" height ="42px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="Tailwind" height ="32px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"></a>
+<a href="[https://reactjs.org/](https://nextjs.org/)" target="_blank"> <img align="left" alt="Nextjs" height ="42px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"></a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind" height ="32px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"></a>
 
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
+### 🛠 Tools and IDEs:
+
+https://code.visualstudio.com/assets/images/code-stable.png
+
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="figma" height='42px'/> </a>
+
 
 <br>
 </a>
