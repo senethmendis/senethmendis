@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img align="right" alt="GIF" src="https://i.pinimg.com/750x/d5/7b/12/d57b122b927382f910ed852b93e87e54.jpg" width="20px" height="20px" />
+  <img align="center" alt="GIF" src="https://i.pinimg.com/750x/d5/7b/12/d57b122b927382f910ed852b93e87e54.jpg" width="20px" height="20px" />
   
   Hey 👋, I'm Seneth Mendis! </h1>
 
