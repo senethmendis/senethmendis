@@ -1,11 +1,13 @@
 
 <h1 align="center"> Hey 👋, I'm Seneth Mendis! </h1>
 
-I am a versatilist and easily adapt to different hats (Beginner level Designer 🎨 and a Developer) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Beginner level Designer and a Developer) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs. 
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" width="360px" height="360px" />
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/750x/d5/7b/12/d57b122b927382f910ed852b93e87e54.jpg" width="360px" height="360px" />
   
 
 ### 👤 More About Me:
