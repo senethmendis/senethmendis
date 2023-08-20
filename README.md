@@ -30,8 +30,9 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer a
 <a href="[https://reactjs.org/](https://nextjs.org/)" target="_blank"> <img align="left" alt="Nextjs" height ="42px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"></a>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind" height ="32px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-
 <br>
+<br>
+<hr>
 
 ### 🛠 Tools and IDEs:
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" height='42px'/> </a>
