@@ -40,11 +40,10 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer a
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 
-<a href="https://www.figma.com/" target="_blank" style="padding-top:20px"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 ### 🛠 Tools and IDEs:
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" height='42px'/> </a>
-
+<a href="https://www.figma.com/" target="_blank" style="padding-top:20px"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="intelliJ" height='42px'/> </a>
 
 
