@@ -26,7 +26,7 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer a
 <br>
 <br>
 <br>
-<br>
+
 
 
 
@@ -37,15 +37,15 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer a
 <br>
 <br>
 <br>
-<br>
+
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind" height ="32px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"></a>
 
 <br>
 <br>
-<hr>
 
+<br>
 
 <a href="https://flutter.dev/" target="_blank"><img align="left" alt="Java" height ="40px" src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg"></a>
 
@@ -55,7 +55,7 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer a
 
 <br>
 <br>
-<hr>
+<br>
 
 ### 🛠 Tools and IDEs:
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" height='42px'/> </a>
