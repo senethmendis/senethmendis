@@ -64,6 +64,3 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer a
 
 
 <br>
-</a>
-
-<br>
