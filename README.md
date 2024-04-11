@@ -1,4 +1,4 @@
-![MasterHead](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)
+![MasterHead](https://64.media.tumblr.com/268e759ae3c758ec3eb8bfefc3623c9e/920b990d29e470d6-06/s1280x1920/bf47934998f9fec89a4123428ca7d3efd7e513b8.gif)
 
 <h1 align="center">
   <img align="center" alt="GIF" src="https://i.pinimg.com/750x/b4/57/5f/b4575f0afc789be897ed29e9884a4fd2.jpg" width="50px" height="50px" />
