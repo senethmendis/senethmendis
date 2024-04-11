@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.wallpapersafari.com/92/67/xhg7O9.gif)
+![MasterHead](https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif)
 
 <h1 align="center">
   <img align="center" alt="GIF" src="https://i.pinimg.com/750x/b4/57/5f/b4575f0afc789be897ed29e9884a4fd2.jpg" width="50px" height="50px" />
