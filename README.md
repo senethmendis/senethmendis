@@ -62,3 +62,5 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer a
 
 
 <br>
+
+![kalehege snake gif](https://github.com/senethmendis/wolfy-six/blob/main/github-contribution-grid-snake.svg)
