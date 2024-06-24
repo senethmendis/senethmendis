@@ -5,8 +5,6 @@
   
   Hey 👋, I'm Seneth Mendis! </h1>
 
-I am a versatilist and easily adapt to different hats (Beginner level Designer and a Developer) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs.
-<br/>
 <br/>
 
 ### 👤 More About Me:
