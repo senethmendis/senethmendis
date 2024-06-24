@@ -5,7 +5,7 @@
   
   Hey 👋, I'm Seneth Mendis! </h1>
 
-
+[![](https://visitcount.itsvg.in/api?id=senethmendis&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 👤 More About Me:
 
 - 🔭 &nbsp; I’m currently Studying in **SLIIT, Undergraduate**
@@ -26,7 +26,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=senethmendis&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![snake](https://github.com/senethmendis/senethmendis/blob/main/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
