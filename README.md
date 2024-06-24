@@ -4,7 +4,6 @@
   <img align="center" alt="GIF" src="https://i.pinimg.com/750x/b4/57/5f/b4575f0afc789be897ed29e9884a4fd2.jpg" width="50px" height="50px" />
   
   Hey 👋, I'm Seneth Mendis! </h1>
-
 <br/>
 
 ### 👤 More About Me:
