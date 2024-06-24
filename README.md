@@ -34,4 +34,5 @@ I am a versatilist and easily adapt to different hats (Beginner level Designer a
 
 [![](https://visitcount.itsvg.in/api?id=senethmendis&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake](https://github.com/senethmendis/senethmendis/blob/main/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
