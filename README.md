@@ -34,5 +34,3 @@
 
 
 
-![snake](https://github.com/senethmendis/senethmendis/blob/main/github-contribution-grid-snake.svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
