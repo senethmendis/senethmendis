@@ -11,7 +11,7 @@
 ### 👤 More About Me:
 
 - 🔭 &nbsp; I’m currently Studying in **SLIIT, Undergraduate**
-- 🌱 &nbsp; I’m currently learning **React.js**
+- 🌱 &nbsp; Junior Frontend Engineer
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wolfy-six/)
   <br>
 
