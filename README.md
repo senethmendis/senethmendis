@@ -67,8 +67,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolfy-six&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolfy-six&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=senethmendis&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senethmendis&theme=radical" height="160px" />
 </p>
 
 ---
