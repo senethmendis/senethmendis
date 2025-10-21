@@ -20,7 +20,7 @@
 - 🎓 Graduated from **Sri Lanka Institute of Information Technology (SLIIT)**
 - 🌱 Passionate about **Frontend Development**, **UI/UX Design**, and **Web Technologies**
 - ⚡ Interested in **React**, **Next.js**, **Node.js**, and **Modern Web Architecture**
-- 📂 Check out my projects on [GitHub](https://github.com/wolfy-six/)
+- 📂 Check out my projects on [GitHub](https://github.com/senethmendis/)
 
 ---
 
