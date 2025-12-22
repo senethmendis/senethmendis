@@ -18,7 +18,7 @@
 
 - 💼 Currently working as an **Associate Software Engineer**
 - 🎓 Graduated from **Sri Lanka Institute of Information Technology (SLIIT)**
-- 🌱 Passionate about **Frontend Development**,**Backend Development**, **ML and AI Development**, and **Web Technologies**
+- 🌱 Passionate about **Frontend Development**, **Backend Development**, **ML and AI Development**, and **Web Technologies**
 - ⚡ Interested in **React**, **Next.js**, **Node.js**, and **Modern Web Architecture**
 - 📂 Check out my projects on [GitHub](https://github.com/senethmendis/)
 
